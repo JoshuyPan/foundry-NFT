@@ -1,4 +1,1 @@
-data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHhtbG5zOnhsaW5rPSdodHRw
-Oi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rJyB3aWR0aD0nNTAwJyBoZWlnaHQ9JzUwMCc+PHRleHQg
-eD0nMCcgeT0nMTUnIGZpbGw9J2JsYWNrJz5IaSEgWW91ciBicm93c2VyIGRlY29kZWQgdGhpczwv
-dGV4dD48L3N2Zz4=
+###TODO: Add the Description
